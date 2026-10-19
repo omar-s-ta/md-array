@@ -1,0 +1,12 @@
+[package]
+name = "md-array"
+version = "0.1.0"
+edition = "2024"
+authors = ["Omar Saber"]
+description = "Dense, fixed-rank multi-dimensional array backed by a single contiguous row-major Vec."
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+keywords = ["array", "multidimensional", "grid", "matrix", "row-major"]
+categories = ["data-structures", "algorithms"]
+repository = "https://github.com/omar-s-ta/md-array"
+rust-version = "1.85"
