@@ -1,5 +1,7 @@
 # md-array
 
+[![Crates.io](https://img.shields.io/crates/v/md-array.svg)](https://crates.io/crates/md-array)
+[![Docs.rs](https://img.shields.io/docsrs/md-array)](https://docs.rs/md-array)
 [![CI](https://github.com/omar-s-ta/md-array/actions/workflows/ci.yml/badge.svg)](https://github.com/omar-s-ta/md-array/actions/workflows/ci.yml)
 
 A small, dependency-free, dense **multi-dimensional array** for Rust, aimed at
