@@ -1,5 +1,7 @@
 # md-array
 
+[![CI](https://github.com/omar-s-ta/md-array/actions/workflows/ci.yml/badge.svg)](https://github.com/omar-s-ta/md-array/actions/workflows/ci.yml)
+
 A small, dependency-free, dense **multi-dimensional array** for Rust, aimed at
 competitive programming and other grid-heavy code.
 
@@ -80,6 +82,11 @@ choice.
   be off by default.
 - The crate uses edition 2024, so it needs Rust 1.85 or newer.
 - The version is `0.x`; the API may change between minor releases.
+
+## Source
+
+The source and issue tracker are at
+<https://github.com/omar-s-ta/md-array>.
 
 ## License
 
